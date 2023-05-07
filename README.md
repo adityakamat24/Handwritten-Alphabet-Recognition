@@ -15,4 +15,4 @@ The system uses a convolutional neural network (CNN) to recognize the handwritte
 The system is trained using the training dataset from MNIST, and the weights of the CNN are updated using backpropagation. The trained model is then used to recognize handwritten letters drawn by users in real-time. The user draws a letter on the screen using the mouse, and the system processes the image and applies the trained neural network model to recognize the letter.
 
 
-![Smart Attendance System](prototype.jpg)
+![Smart Attendance System](images/prototype.png)
